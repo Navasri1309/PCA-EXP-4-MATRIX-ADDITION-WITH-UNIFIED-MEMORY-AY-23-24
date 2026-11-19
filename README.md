@@ -39,7 +39,7 @@ Allocate Host Memory
 22.	Reset the device using cudaDeviceReset and return from the main function.
 
 ## VIDEO PRESENTATION LINK :
-[https://youtu.be/uV-SG-7fD6o](url)
+https://youtu.be/uV-SG-7fD6o
 
 ## RESULT:
 Thus the program has been executed by using unified memory. 
