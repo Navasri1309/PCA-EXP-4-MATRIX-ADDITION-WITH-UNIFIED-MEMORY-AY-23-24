@@ -144,3 +144,9 @@ int main()
 
 ## RESULT:
 Thus the program has been executed by using unified memory. 
+
+
+.
+
+
+.
