@@ -141,8 +141,6 @@ int main()
 
 <img width="941" height="112" alt="image" src="https://github.com/user-attachments/assets/a92d74eb-2cdb-465d-b4e8-48c8d7ad4dac" />
 
-## VIDEO PRESENTATION LINK :
-https://youtu.be/uV-SG-7fD6o
 
 ## RESULT:
 Thus the program has been executed by using unified memory. 
